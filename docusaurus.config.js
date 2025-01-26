@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'IQ.A.S Database',
   tagline: 'Central database of non-sensitive IQ.A.S documentation',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.ico',
 
   // Set the production url of your site here
   url: 'https://database.iq-a-s.com',
