@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'IQ.A.S Database Test #1',
-  tagline: 'Dinosaurs are cool',
+  title: 'IQ.A.S Database',
+  tagline: 'Central database of non-sensitive IQ.A.S documentation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
